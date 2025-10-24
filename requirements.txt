@@ -1,0 +1,11 @@
+peft==0.17.1
+transformers==4.57.1
+trl==0.24.0
+torch==2.8.0
+
+
+accelerate==1.10.1
+huggingface-hub==0.34.4
+safetensors==0.6.2
+sentencepiece==0.2.1
+
